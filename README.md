@@ -1,5 +1,5 @@
 ![logo](https://github.com/Anvir0001/Anvir0001/blob/main/github%20encoder%20banner.gif)
-<h1 align="center">Hi 👋, I'm Anvir 0001</h1>
+<h1 align="center">Hi 👋, I'm Encoder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 # 💫 About Me:
