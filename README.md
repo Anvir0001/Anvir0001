@@ -3,7 +3,10 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 # 💫 About Me:
-👋 Hi, I’m Encoder<br>👀 I’m interested in Programming.<br>🌱 I’m currently learning everything. <br> ⚡ I am Funny 😅
+- 👋 Hi, I’m Encoder<br>
+-  👀 I’m interested in Programming.<br> 
+-  🌱 I’m currently learning everything. <br> 
+-  ⚡ I am Funny 😅
 
 
 ## 🌐 Socials:
